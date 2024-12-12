@@ -14,7 +14,11 @@ export default function Home() {
           priority
         />
         <ol>
-          <h1>change</h1>
+          <li>
+            Dev change ----
+            Get started by editing <code>app/page.js</code>.
+          </li>
+          <li>Save and see your changes instantly.</li>
         </ol>
 
         <div className={styles.ctas}>
